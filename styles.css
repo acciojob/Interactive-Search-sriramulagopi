@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+.search{
+	width:fit-content;
+	padding:10px;
+	border-radius:5px;
+	background:whitesmoke;
+}
+.input{
+	border:none;
+	outline:none;
+	background:whitesmoke;
+	
+}
+button{
+	border:none;
+	font-size:16px;
+	background:white;
+	background:whitesmoke;
+	
+}
+::placeholder{
+	font-size:15px
+}
