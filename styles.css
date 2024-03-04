@@ -5,7 +5,7 @@
 	border-radius:5px;
 	background:whitesmoke;
 }
-.search:active{
+.search.active{
 	border:1px solid red;
 }
 .input{
