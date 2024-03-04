@@ -5,6 +5,9 @@
 	border-radius:5px;
 	background:whitesmoke;
 }
+.search:active{
+	border:1px solid red;
+}
 .input{
 	border:none;
 	outline:none;
@@ -19,5 +22,5 @@ button{
 	
 }
 ::placeholder{
-	font-size:15px
+	font-size:15px;
 }
